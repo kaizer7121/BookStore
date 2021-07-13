@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 7, 2021, 2:56:16 PM
+    Author     : Kaizer
+*/
+
+.user-card-img {
+    margin: 2% auto 0;
+    width: 15.6rem;
+    height: 16.2rem;
+}
+
+.user-grid {
+    text-align: center;
+}
+
+.user-card-title {
+    min-height: 20%;
+}
+
+.user-add-book {
+    width: 75%;
+}
+
+.user-filter-category{
+    display: inline-block;
+    width: 15%;
+}
+
+.user-list-book {
+    display: inline-block;
+    width: 80%;
+
+}
